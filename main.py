@@ -13,7 +13,7 @@ except ImportError:
     _ = os.system('pip install colorama' if os.name == 'nt' else 'pip3 install colorama')
     _ = os.system('pip install pyzipper' if os.name == 'nt' else 'pip3 install pyzipper')
     _ = os.system('pip install rich' if os.name == 'nt' else 'pip3 install rich')
-    _ = os.system('pip install instaloader' if os.name == 'nt' else 'pip3 install instaloader')
+    
 import pyzipper
 import sys
 from time import sleep
@@ -39,7 +39,7 @@ y = r
 logo = Panel("""
 [bold white]</> [italic green] STARK-404 [bold white]</>
 [bold white] </> [italic green] Github: STARK-404 [bold white]</>
-[bold white] </> [italic green] instagram la1uuuuu [bold white</>
+[bold white] </> [italic green] instagram la1uuuuu [bold white]</>
 """)
 
 def banner():
@@ -55,7 +55,7 @@ def exixting_directory_file(file):
 def designprint(samaywrite):
     print(logo)
     print("[bold red]"+"└─> "+'[bold white]'+"[bold green]"+samaywrite)
-    print("[bold green]Please Wait Files Are Extracting ...([italic blue]it will take 15min)[bold green] Take a Coffe break")
+    print("[bold green]Please Wait Files Are Extracting ...")
 
 def front_design():
     cls_clear_func()
