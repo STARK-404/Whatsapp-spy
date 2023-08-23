@@ -34,7 +34,7 @@ python index.py
 # Tutorial
 [Tutorial](https://videos.cdn.spotlightr.com/watch/MTQ3NjIzMA==)
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="100%">](https://videos.cdn.spotlightr.com/watch/MTQ3NjIzMA== "Now in Android: 55")
+[<img src="https://www.canva.com/design/DAFriaEJ5g8/AdFZtu4awD-M8DunP7MHwg/view?utm_content=DAFriaEJ5g8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" width="100%">](https://videos.cdn.spotlightr.com/watch/MTQ3NjIzMA== "Now in Android: 55")
 
 # How its Work 
 
