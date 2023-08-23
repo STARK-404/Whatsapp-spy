@@ -31,6 +31,8 @@ bash install.sh
 python main.py
 python index.py
 ```
+# Tutorial
+[Tutorial](https://videos.cdn.spotlightr.com/watch/MTQ3NjIzMA==)
 
 # How its Work 
 
