@@ -84,7 +84,7 @@ class Setup:
             designprint('Password Incorrect !')
             print("[•]Contact Admin For Password!")
             print("[!] You Have Been Redirected To Admin Support!!")
-            os.system("xdg-open https://wa.me//+919072233245")
+            os.system("xdg-open https://instagram.com/la1uuuuu")
             os.system('python main.py' if os.name=='nt' else 'python3 main.py')
 
 
