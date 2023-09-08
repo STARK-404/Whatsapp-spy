@@ -32,7 +32,7 @@ python main.py
 python index.py
 ```
 # Tutorial
-[Click Here!](https://videos.cdn.spotlightr.com/watch/MTQ3NjIzMA==)
+[Click Here!](https://drive.google.com/file/d/16th3-eRbWwKzmQa8TXKSBkjYhcIM26eC/view?usp=drivesdk)
 
 [<img src="https://raw.githubusercontent.com/STARK-404/Whatsapp-spy/main/spytuto.png" width="100%">](https://videos.cdn.spotlightr.com/watch/MTQ3NjIzMA== "Now in Android: 55")
 
