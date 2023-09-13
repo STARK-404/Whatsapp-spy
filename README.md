@@ -13,7 +13,7 @@
 - [Reach me ](https://github.com/STARK-404/Whatsapp-spy/blob/main/README.md#reach-me)
 # Description
 Its A just Tool/WhatsApp Bot For Spy Anyones Whatsapp Messages, Contacts ... etc.
-+ Any Issue [Contact Me](lalkrishna352@gmail.com)
++ Any Issue [lalkrishna352@gmail.com](lalkrishna352@gmail.com)
 # Disclaimer
 This Tool is only for educational purposes
 
