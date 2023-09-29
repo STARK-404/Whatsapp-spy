@@ -43,7 +43,7 @@ Hi Guys Iam Stark Iam the Author Of the Tool ! We need To Spy anyones Whatsapp I
 # Reach Me!
 <a href="https://github.com/STARK-404/"><img title="Github" src="https://img.shields.io/badge/STARK-404-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://www.instagram.com/la1uuuuu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<img src="https://img.shields.io/twitter/follow/Lakrishna6314?logo=twitter&r&style=for-the-badge" alt="Lalkrishna6314" />
+<img src="https://img.shields.io/twitter/follow/Lalkrishna6314?logo=twitter&r&style=for-the-badge" alt="Lalkrishna6314" />
 <div id='badge'>
 
 | [<img src="https://avatars2.githubusercontent.com/u/2265232?v=4" width="90px;"/><br /><sub><b>Adhiraj Singh</b></sub>](https:/github.com/adiwajshing)<br />[Baileys Owner](https://github.com/adiwajshing/)
