@@ -48,8 +48,8 @@ Hi Guys Iam Stark Iam the Author Of the Tool ! We need To Spy anyones Whatsapp I
 
 | [<img src="https://avatars2.githubusercontent.com/u/2265232?v=4" width="90px;"/><br /><sub><b>Adhiraj Singh</b></sub>](https:/github.com/adiwajshing)<br />[Baileys Owner](https://github.com/adiwajshing/)
 
-## Donate Me 
-
+## Donate Whatsapp-spy
+Buyme A coffee! : 
 
 # About 
 <img src="https://profile-counter.glitch.me/{STARK-404}/count.svg" alt="madushadhanushka :: Visitor's Count" />
