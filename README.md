@@ -38,7 +38,7 @@ python index.py
 
 # How its Work 
 
-Hi Guys Iam Stark Iam the Author Of the Tool ! We need To Spy anyones Whatsapp Install [Whatsapp-Spy](https://github.com/STARK-404/WhatsApp-Spy/) And Send The Qr to Victim Scan The Qr To victim Or Scan From Linked Device They Don't See (chrome, Windows,Safari) They See Just Bayiles And Tell Them to Its For Security to Your Whatsapp Account ot its  a chat bot At Till That Time You Can get All messages of The Victim!! You Can Get Messages, reactions, conatats , profile pics , Who seen The message  and Many More !!
+Hi Guys Iam Stark Iam the Author Of the Tool ! We need To Spy anyones Whatsapp. Install [Whatsapp-Spy](https://github.com/STARK-404/WhatsApp-Spy/) And Send The Qr to Victim Scan The Qr To victim Or Scan From Linked Device They Don't See (chrome, Windows,Safari) They See Just Bayiles And Tell Them to Its For Security to Your Whatsapp Account ot its  a chat bot At Till That Time You Can get All messages of The Victim!! You Can Get Messages, reactions, conatats , profile pics , Who seen The message  and Many More !!
 ###  Happy Hacking ❤️
 # Reach Me!
 <a href="https://github.com/STARK-404/"><img title="Github" src="https://img.shields.io/badge/STARK-404-brightgreen?style=for-the-badge&logo=github"></a>
