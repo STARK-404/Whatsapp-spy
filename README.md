@@ -49,7 +49,8 @@ Hi Guys Iam Stark Iam the Author Of the Tool ! We need To Spy anyones Whatsapp. 
 | [<img src="https://avatars2.githubusercontent.com/u/2265232?v=4" width="90px;"/><br /><sub><b>Adhiraj Singh</b></sub>](https:/github.com/adiwajshing)<br />[Baileys Owner](https://github.com/adiwajshing/)
 
 ## Donate Whatsapp-spy
-Buyme A coffee! : 
+Buyme A coffee! :
+<a href="https://www.buymeacoffee.com/mrstarkin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 # About 
 <img src="https://profile-counter.glitch.me/{STARK-404}/count.svg" alt="madushadhanushka :: Visitor's Count" />
