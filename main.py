@@ -83,8 +83,9 @@ class Setup:
         except Exception as samay:
             designprint('Password Incorrect !')
             print("[•]Contact Admin For Password!")
-            print("[!] You Have Been Redirected To Admin Support!!")
-            os.system("xdg-open https://instagram.com/la1uuuuu")
+            print('[bold green] Mail:- gamerunknown509@gmail.com')
+            print("[!] You Have Been Redirected To Payment Page!!")
+            os.system("xdg-open https://www.buymeacoffee.com/mrstarkin/e/174352")
             os.system('python main.py' if os.name=='nt' else 'python3 main.py')
 
 
