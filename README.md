@@ -50,7 +50,7 @@ Hi Guys Iam Stark Iam the Author Of the Tool ! We need To Spy anyones Whatsapp. 
 
 ## Donate Whatsapp-spy
 Buyme A coffee! :
-<a href="https://www.buymeacoffee.com/mrstarkin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/mrstarkin" target="_(+256702986037)><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 # About 
 <img src="https://profile-counter.glitch.me/{STARK-404}/count.svg" alt="madushadhanushka :: Visitor's Count" />
