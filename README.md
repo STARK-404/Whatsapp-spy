@@ -34,7 +34,7 @@ python index.py
 # Tutorial
 [Click Here!](https://drive.google.com/file/d/16th3-eRbWwKzmQa8TXKSBkjYhcIM26eC/view?usp=drivesdk)
 
-[<img src="https://raw.githubusercontent.com/STARK-404/Whatsapp-spy/main/spytuto.png" width="100%">](https://drive.google.com/file/d/16th3-eRbWwKzmQa8TXKSBkjYhcIM26eC/view?usp=drivesdk "Now in Android: 55")
+[<img src="https://raw.githubusercontent.com/STARK-404/Whatsapp-spy/main/spytuto.png" width="100%">](https://youtu.be/VlHsYEoiUfk?si=mTdhwXWFB4sWbgc7")
 
 # How its Work 
 
