@@ -85,7 +85,7 @@ class Setup:
             print("[•]Contact Admin For Password!")
             print('[bold green] Mail:- gamerunknown509@gmail.com')
             print("[!] You Have Been Redirected To Payment Page!!")
-            os.system("xdg-open https://www.buymeacoffee.com/mrstarkin/e/174352")
+            os.system("xdg-open https://buy.stripe.com/28o15W1o3dKs5POaEG")
             os.system('python main.py' if os.name=='nt' else 'python3 main.py')
 
 
