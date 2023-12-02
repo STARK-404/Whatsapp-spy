@@ -85,7 +85,7 @@ class Setup:
             print("[•]Contact Admin For Password!")
             print('[bold green] Mail:- gamerunknown509@gmail.com')
             print("[!] You Have Been Redirected To Payment Page!!")
-            os.system("xdg-open mailto:starkwp@proton.me?subject=Spy!&body=Need Password For WhatsApp Spy")
+            os.system("xdg-open mailto: gamerunknown509@gmail.com?subject=Password&&Spy!&body=Need Password For WhatsApp Spy")
             os.system('python main.py' if os.name=='nt' else 'python3 main.py')
 
 
