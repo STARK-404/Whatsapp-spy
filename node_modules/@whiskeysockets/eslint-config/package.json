@@ -1,0 +1,17 @@
+{
+	"name": "@whiskeysockets/eslint-config",
+	"version": "1.0.0",
+	"main": "index.json",
+	"dependencies": {
+		"@typescript-eslint/eslint-plugin": "^7.15.0",
+		"@typescript-eslint/parser": "^7.15.0",
+		"eslint-plugin-simple-import-sort": "^12.1.1"
+	},
+	"peerDependencies": {
+		"eslint": "*",
+		"typescript": ">=4"
+	},
+	"devDependencies": {
+		"typescript": "^4.5.5"
+	}
+}
