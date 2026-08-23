@@ -6,7 +6,7 @@
  
  [![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 
-# Whatsapp-spy v2.0
+# Whatsapp-spy v2.1
 - [Description](https://github.com/STARK-404/Whatsapp-spy/tree/main#disclaimer)
 - [Installation](https://github.com/STARK-404/Whatsapp-spy/tree/main#installation)
 - [Usage](https://github.com/STARK-404/Whatsapp-spy/blob/main/README.md#how-its-work)
@@ -19,7 +19,7 @@ Its A just Tool/WhatsApp Bot For Spy Anyones Whatsapp Messages, Contacts ... etc
 >This Tool is only for educational purposes
 
 
-# Installation
+# Instalation
 
 
 ## Linux 
